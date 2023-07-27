@@ -16,10 +16,11 @@ class Task extends Model
 
     protected $fillable = [
         //タイトル
-        'comment' ,
+        'title' ,
         //対応済みか否か
         'is_done',
     ];
+
 
 
     /**

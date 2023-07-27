@@ -10,9 +10,18 @@
         "production": "mix --production"
     },
     "devDependencies": {
+        "@types/react": "^18.2.15",
+        "@types/react-dom": "^18.2.7",
+        "@types/react-router-dom": "^5.3.3",
         "axios": "^0.21",
         "laravel-mix": "^6.0.6",
-        "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.14.1",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.63.6",
+        "sass-loader": "^12.6.0",
+        "ts-loader": "^9.4.4",
+        "typescript": "^5.1.6"
     }
 }
